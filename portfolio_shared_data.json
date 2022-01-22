@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Reymart Samson",
+      "titles": [ "I'm a front-end developer" ],
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/reymart-samson-1655459a/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "email",
+          "url": "mailto:reymart28@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "70"
+        },
+        {
+          "name": "jQuery",
+          "class": "devicon-jquery-plain",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "10"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "40"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "30"
+        },
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain",
+          "level": "50"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "50"
+        }
+      ]
+    }
+  }

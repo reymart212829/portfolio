@@ -1,0 +1,172 @@
+{
+    "basic_info": {
+      "description_header": "Hi!",
+      "description": "I’m a front-end developer based in the Philippines who loves to transform ideas into reality using code. With over 5 years of developing web applications using the latest front-end. ",
+      "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem solving and I am quick to learn with good communication skills and the ability to work efficiently as part of a team in a professional environment.",
+      "preference": "I’m open to work anywhere for the right opportunity.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "education": "Education",
+        "expertise": "Expertise",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Recruitday.com",
+        "startDate": "2017",
+        "description": "Recruitday.com is a jobs platform that lets you find the perfect job or help others find theirs through referrals. Browse through job listings for the most current openings you can apply to or refer from multiple companies around the Philippines.",
+        "images": [
+          "images/portfolio/recruitday/rd1.png",
+          "images/portfolio/recruitday/rd2.png",
+          "images/portfolio/recruitday/rd3.png",
+          "images/portfolio/recruitday/rd4.png"
+        ],
+        "url": "https://www.recruitday.com/",
+        "technologies": [ 
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
+          },
+          {
+            "class": "devicon-symfony-original",
+            "name": "symfony"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Barhead Solutions",
+        "startDate": "2016",
+        "description": "Barhead is a specialised consulting firm focused on delivering business solutions leveraging Microsoft’s Digital Technology Stack. We believe that it is a combination of people, technology, and business drivers that underpin the most successful implementations.",
+        "images": [
+          "images/portfolio/recruitday/rd1.png",
+          "images/portfolio/recruitday/rd2.png",
+          "images/portfolio/recruitday/rd3.png",
+          "images/portfolio/recruitday/rd4.png"
+        ],
+        "url": "https://barhead.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "STI College Southwoods",
+        "title": "Bachelor of Science in Information Technology",
+        "years": "June 2009 - May 2014",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          ""
+        ]
+      }
+    ],
+    "expertise": {
+      "icons": [
+        {
+          "title": "Full-Stack Web Development",
+          "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Java (+ Spring Framework), NodeJS (+ Express), Serverless (+ AWS Lambda), PHP (+ Laravel/Symfony), React (+ Redux), and Ruby on Rails. I'm able to create and maintain APIs, web servers, and dockerised environments."
+        },
+        {
+          "title": "Database Systems",
+          "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB and Redis. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+        },
+        {
+          "title": "E-Commerce",
+          "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, CMS such as Wordpress, and marketing include social media, email, and blogging."
+        },
+        {
+          "title": "Data Science",
+          "description": "I understand the difference between traditional and big data and big data strategies (aims, policies, plans, actions). I know how you're able to extract value (useful analysis) from large volumes of data from many data sources. I have experience with working with Apache Hadoop."
+        },
+        {
+          "title": "Project Management",
+          "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Kanban Boards."
+        },
+        {
+          "title": "Networking",
+          "description": "From routing and switching to wide area networks, I understand networking theory and the application of networks. Various networking modules allowed me to learn from Cisco, and take part in CCNA backed exams."
+        }
+      ]
+    },
+    "experience": [
+      {
+        "company": "Green Labo, Inc.",
+        "title": "Front-End Web Developer",
+        "description": "Provides expert solution to customer requirements and needs.",
+        "responsibilities" : [
+          
+        ],
+        "years": "May 2019 - present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Vuejs",
+          "Laravel",
+          "Node",
+          "AWS"
+        ]
+      },
+      {
+        "company": "Barhead Solutions, Inc.",
+        "title": "Technical Consultants",
+        "description": "Have an adequate knowledge and experience in standard project implementation and software development methodologies. Support the other developers in the implementation efforts by understanding customer’s business, processes and system needs.",
+        "responsibilities": [
+
+        ],
+        "years": "June 2015 - April 2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "jQuery",
+          "Javascript",
+          "Symfony",
+          "MySQL",
+          "Sharepoint",
+          "Rollbase Platform"
+        ]
+      },
+      {
+        "company": "Rollbase Philippines",
+        "title": "Web Developer",
+        "description": "Contributes to the development, delivery and maintenance of Rollbase business solutions. Skilled in designing, testing and implementing configuration changes to software applications to meet the technical requirements.",
+        "responsibilities": [
+
+        ],
+        "years": "October 2014 - May 2015",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "jQuery",
+          "Javascript",
+          "Rollbase Platform"
+        ]
+      }
+    ]
+}
