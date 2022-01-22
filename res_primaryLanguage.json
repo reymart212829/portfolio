@@ -19,10 +19,10 @@
         "startDate": "2017",
         "description": "Recruitday.com is a jobs platform that lets you find the perfect job or help others find theirs through referrals. Browse through job listings for the most current openings you can apply to or refer from multiple companies around the Philippines.",
         "images": [
-          "images/portfolio/recruitday/rd1.png",
-          "images/portfolio/recruitday/rd2.png",
-          "images/portfolio/recruitday/rd3.png",
-          "images/portfolio/recruitday/rd4.png"
+          "images/portfolio_images/recruitday/rd1.png",
+          "images/portfolio_images/recruitday/rd2.png",
+          "images/portfolio_images/recruitday/rd3.png",
+          "images/portfolio_images/recruitday/rd4.png"
         ],
         "url": "https://www.recruitday.com/",
         "technologies": [ 
@@ -49,10 +49,10 @@
         "startDate": "2016",
         "description": "Barhead is a specialised consulting firm focused on delivering business solutions leveraging Microsoft’s Digital Technology Stack. We believe that it is a combination of people, technology, and business drivers that underpin the most successful implementations.",
         "images": [
-          "images/portfolio/recruitday/rd1.png",
-          "images/portfolio/recruitday/rd2.png",
-          "images/portfolio/recruitday/rd3.png",
-          "images/portfolio/recruitday/rd4.png"
+          "images/portfolio_images/recruitday/rd1.png",
+          "images/portfolio_images/recruitday/rd2.png",
+          "images/portfolio_images/recruitday/rd3.png",
+          "images/portfolio_images/recruitday/rd4.png"
         ],
         "url": "https://barhead.com/",
         "technologies": [
@@ -78,10 +78,7 @@
     ],
     "expertise": {
       "icons": [
-        {
-          "title": "",
-          "description": ""
-        }
+        ""
       ]
     },
     "experience": [
